@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
 
+This following is a custom example and tutorial on how to setup a simple login page using Angular 7 and JWT authentication.
+
+http://jasonwatmore.com/post/2018/11/16/angular-7-jwt-authentication-example-tutorial#projectstructure
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
